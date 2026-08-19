@@ -1,0 +1,6 @@
+person = input("Please enter your name: ")
+print("Hello, " + person)
+print("Hello, World!")
+print("Welcome to Python programming.")
+print("What is your name?", input("Enter your name: "))
+print("Hello, ! Glad to have you learning Python.")
